@@ -1,0 +1,17 @@
+body {
+background-color: #a5668b;
+} 
+hi {
+background-color: #D3BCC0;
+}
+p {
+    color: #000000;
+}
+#galeria {
+    background-color: #69306D;
+}
+
+img {
+    width: 300px;
+   height: auto;
+}
