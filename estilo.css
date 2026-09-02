@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Gaegu&family=Uncial+Antiqua&display=swap');
+
 body {
 background-color: #a5668b;
+font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings;
 } 
 hi {
 background-color: #D3BCC0;
